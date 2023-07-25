@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.19;
 
-import { PWNFaucet20 } from "./PWNFaucet20.sol";
-import { PWNFaucet721 } from "./PWNFaucet721.sol";
-import { PWNFaucet1155 } from "./PWNFaucet1155.sol";
+import {PWNFaucet20} from "./PWNFaucet20.sol";
+import {PWNFaucet721} from "./PWNFaucet721.sol";
+import {PWNFaucet1155} from "./PWNFaucet1155.sol";
 
 
 contract PWNFaucet {
@@ -16,7 +16,7 @@ contract PWNFaucet {
     constructor() {
         t20 = new PWNFaucet20("PWN Faucet Token", "PWNf20");
         t721 = new PWNFaucet721("PWN Faucet NFT", "PWNf721");
-        t1155 = new PWNFaucet1155("uri:test");
+        t1155 = new PWNFaucet1155();
     }
 
 
