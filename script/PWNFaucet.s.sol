@@ -6,6 +6,13 @@ import {Script, console2} from "forge-std/Script.sol";
 import {PWNFaucet} from "../src/PWNFaucet.sol";
 
 
+/*
+forge script script/PWNFaucet.s.sol:Deploy \
+--rpc-url $RPC_URL \
+--private-key $PRIVATE_KEY \
+--verify --etherscan-api-key $ETHERSCAN_API_KEY \
+--broadcast
+*/
 contract Deploy is Script {
 
     function run() external {
