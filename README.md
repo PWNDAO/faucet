@@ -11,3 +11,4 @@ ERC20, 721 &amp; 1155 faucet contracts
 | 0x515505447a6167CCAC90033364CCb5adc0e0a9E9 | [Goerli](https://goerli.etherscan.io/address/0x515505447a6167ccac90033364ccb5adc0e0a9e9) |
 | 0x449545021F201f3D5f4ED12442997aE19595b134 | [Sepolia](https://sepolia.etherscan.io/address/0x449545021F201f3D5f4ED12442997aE19595b134) |
 | 0x449545021F201f3D5f4ED12442997aE19595b134 | [Arbitrum One](https://arbiscan.io/address/0x449545021f201f3d5f4ed12442997ae19595b134) |
+| 0xC791127D6fceC01A5A34d853d6cF6fadED599fcC | [Optimism](https://optimistic.etherscan.io/address/0xC791127D6fceC01A5A34d853d6cF6fadED599fcC) |
