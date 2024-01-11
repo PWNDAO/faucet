@@ -21,9 +21,10 @@ contract Deploy is Script {
         PWNFaucet faucet = new PWNFaucet();
         console2.log("PWNFaucet deployed at:", address(faucet));
 
-        console2.log("PWNFaucet20 deployed at:", address(faucet.t20()));
-        console2.log("PWNFaucet721 deployed at:", address(faucet.t721()));
-        console2.log("PWNFaucet1155 deployed at:", address(faucet.t1155()));
+        console2.log("PWND ERC20 deployed at:", address(faucet.t20D()));
+        console2.log("PWNS ERC20 deployed at:", address(faucet.t20S()));
+        console2.log("PWN Faucet ERC721 deployed at:", address(faucet.t721()));
+        console2.log("PWN Faucet ERC1155 deployed at:", address(faucet.t1155()));
 
         vm.stopBroadcast();
     }
