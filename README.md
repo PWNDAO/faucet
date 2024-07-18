@@ -11,5 +11,6 @@ ERC20, 721 &amp; 1155 faucet contracts
 | 0xaFf4E284e8192FFbeF5022647aA16dEbDe87763f | [Cronos](https://cronoscan.com/address/0xaFf4E284e8192FFbeF5022647aA16dEbDe87763f) |
 | 0x2368afdD45b4b344A788d694E9FD9b541f887bef | [Mantle](https://explorer.mantle.xyz/address/0x2368afdD45b4b344A788d694E9FD9b541f887bef) |
 | 0x67c86D5900a6494a08EE48448e95781DcF33c804 | [BSC](https://bscscan.com/address/0x67c86D5900a6494a08EE48448e95781DcF33c804) |
+| 0x354869495Fd916ADAFc0626C3d60115240dc06f1 | [Linea](https://lineascan.build/address/0x354869495Fd916ADAFc0626C3d60115240dc06f1) |
 | 0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91 | [Sepolia](https://sepolia.etherscan.io/address/0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91) |
 | 0x515505447a6167CCAC90033364CCb5adc0e0a9E9 | [Goerli](https://goerli.etherscan.io/address/0x515505447a6167ccac90033364ccb5adc0e0a9e9) |
