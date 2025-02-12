@@ -14,6 +14,7 @@ ERC20, 721 &amp; 1155 faucet contracts
 | 0x354869495Fd916ADAFc0626C3d60115240dc06f1 | [Linea](https://lineascan.build/address/0x354869495Fd916ADAFc0626C3d60115240dc06f1) |
 | 0xac5221ed4a966AF4379a05d65795174d46BE54D4 | [Gnosis](https://gnosisscan.io/address/0xac5221ed4a966AF4379a05d65795174d46BE54D4) |
 | 0x94C2820dCD56E591A20B4049f7Bb1161E9deDff5 | [World Chain](https://worldscan.org/address/0x94C2820dCD56E591A20B4049f7Bb1161E9deDff5) |
+| 0xc0aCA216Aa936511b24Ff238F610B02bE54e10AD | [Unichain](https://uniscan.xyz/address/0xc0aCA216Aa936511b24Ff238F610B02bE54e10AD) |
 | 0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91 | [Sepolia](https://sepolia.etherscan.io/address/0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91) |
 | 0x9F7Add9db5010df251003D90DfD16c247A1A53Ff | [Unichain Sepolia](https://sepolia.uniscan.xyz/address/0x9F7Add9db5010df251003D90DfD16c247A1A53Ff) |
 | 0x515505447a6167CCAC90033364CCb5adc0e0a9E9 | [Goerli](https://goerli.etherscan.io/address/0x515505447a6167ccac90033364ccb5adc0e0a9e9) |
