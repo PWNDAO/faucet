@@ -8,9 +8,9 @@ import {PWNFaucet} from "../src/PWNFaucet.sol";
 
 /*
 forge script script/PWNFaucet.s.sol:Deploy \
---rpc-url $RPC_URL \
---private-key $PRIVATE_KEY \
---verify --etherscan-api-key $ETHERSCAN_API_KEY \
+--rpc-url $CELO_URL \
+--private-key $PRIVATE_KEY_PWN_PROD \
+--verify --verifier sourcify \
 --broadcast
 */
 contract Deploy is Script {

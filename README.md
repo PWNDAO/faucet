@@ -17,6 +17,7 @@ ERC20, 721 &amp; 1155 faucet contracts
 | 0xc0aCA216Aa936511b24Ff238F610B02bE54e10AD | [Unichain](https://uniscan.xyz/address/0xc0aCA216Aa936511b24Ff238F610B02bE54e10AD) |
 | 0xA3784ecf3C9c88bafbd7eD3030b3d6413bbaabE5 | [Ink](https://explorer.inkonchain.com/address/0xA3784ecf3C9c88bafbd7eD3030b3d6413bbaabE5) |
 | 0x490040E1A2df842Cab527146a20534e23DcC46FF | [Sonic](https://sonicscan.org/address/0x490040E1A2df842Cab527146a20534e23DcC46FF) |
+| 0x6B5c78654E798f284021859796c26A5FE9E6A76f | [Celo](https://celo.blockscout.com/address/0x6B5c78654E798f284021859796c26A5FE9E6A76f) |
 | 0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91 | [Sepolia](https://sepolia.etherscan.io/address/0x3A04ea90bAb53fBDB9C07B0D08ED865244114c91) |
 | 0x9F7Add9db5010df251003D90DfD16c247A1A53Ff | [Unichain Sepolia](https://sepolia.uniscan.xyz/address/0x9F7Add9db5010df251003D90DfD16c247A1A53Ff) |
 | 0x515505447a6167CCAC90033364CCb5adc0e0a9E9 | [Goerli](https://goerli.etherscan.io/address/0x515505447a6167ccac90033364ccb5adc0e0a9e9) |
